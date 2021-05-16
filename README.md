@@ -1,3 +1,4 @@
+![Rex『Juancho』](https://user-images.githubusercontent.com/75599353/118382571-97c9dc80-b5bc-11eb-8e22-9d66f93159d1.gif)
 - 👋 Hola, Me llamo Juancho
 - 👀 Me gusta hacer bots de Discord
 - 🌱 Me gusta conocer nuevos amigos
