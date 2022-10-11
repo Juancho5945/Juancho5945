@@ -2,7 +2,7 @@
 Hello.... My name is Juancho a programmer and a bit slippery :D I am currently a developer of [Ali Mascot](https://github.com/Ali-Mascot) a musical mascot for yours truly
 
 ```prolog
-                                          💎 • ────────────〘 Data... 〙──────────── • 💎
+                                      💎 • ────────────〘 Data... 〙──────────── • 💎
 ```
 
 - 💖 Elusive medium
@@ -10,7 +10,7 @@ Hello.... My name is Juancho a programmer and a bit slippery :D I am currently a
 - ⭐ Pro player in BombSquad
 
 ```prolog
-                                          💎 • ────────────〘 Info... 〙──────────── • 💎
+                                      💎 • ────────────〘 Info... 〙──────────── • 💎
 ```
 
 - 🐾 Ali Mascot ==== 🎉[Ali Website](https://ali.mascot.cf) 🎁[Invite](https://discord.com/oauth2/authorize?client_id=977622856345219133&permissions=1644971949559&scope=bot%20applications.commands)
@@ -20,7 +20,7 @@ Hello.... My name is Juancho a programmer and a bit slippery :D I am currently a
 - 📫 I have fulfilled my dreams in having a verified bot on Discord
 
 ```prolog
-                                       💎 • ────────────〘 Metrics... 〙──────────── • 💎
+                                   💎 • ────────────〘 Metrics... 〙──────────── • 💎
 ```
 
 ![Metrics](https://metrics.lecoq.io/Juancho5945?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&gists=1&followup=1&lines=1&activity=1&achievements=1&discussions=1&notable=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=JS&languages.threshold=0%25&languages.indepth=true&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&repositories.featured=Juancho5945%2Freply&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FBogota)
