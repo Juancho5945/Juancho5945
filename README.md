@@ -14,7 +14,7 @@ Hello.... My name is Juancho a programmer and a bit slippery :D I am currently a
 ```
 
 - 🐾 Ali Mascot ==== 🎉[Ali Website](https://ali.mascot.cf) 🎁[Invite](https://discord.com/oauth2/authorize?client_id=977622856345219133&permissions=1644971949559&scope=bot%20applications.commands)
-- 🚀 Discord ======= 📭[! Lumine#2939](https://discord.com/users/439615122865127425)
+- 🚀 Discord ======= 📭[! Prince#8543](https://discord.com/users/439615122865127425)
 - 🌱 I like to meet new friends
 - 💞️ Little relationship with friends I'm shy sometimes :V
 - 📫 I have fulfilled my dreams in having a verified bot on Discord
