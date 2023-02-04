@@ -13,8 +13,8 @@ Hello.... My name is Juancho a programmer and a bit slippery :D I am currently a
                                       💎 • ────────────〘 Info... 〙──────────── • 💎
 ```
 
-- 🐾 Ali Mascot ===== 🎉[Ali Website](https://ali.mascot.cf) 🎁[Invite](https://discord.com/oauth2/authorize?client_id=977622856345219133&permissions=1644971949559&scope=bot%20applications.commands)
-- 🚀 Discord ======= 📭[! Flautista#6633](https://discord.com/users/439615122865127425)
+- 🐾 Ali Mascot ===== 🎉[Ali Website](https://ali.mascot.cf) 🎁[Invite](https://discordapp.com/api/oauth2/authorize?client_id=977622856345219133&permissions=4398046511095&scope=applications.commands%20bot)
+- 🚀 Discord ======= 📭[! Atem#1580](https://discordapp.com/users/439615122865127425)
 - 🌱 I like to meet new friends
 - 💞️ Little relationship with friends I'm shy sometimes :V
 - 📫 I have fulfilled my dreams in having a verified bot on Discord
